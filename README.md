@@ -1,4 +1,4 @@
-### Hi I'm thdhamana, developper(web, desktop, mobile), disigner, pentester 👋
+### Hi I'm thdhamana, developper(web, desktop, mobile), UI/UX disigner, pentester 👋
 
 <!--
 **thdhamana/thdhamana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
